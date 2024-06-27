@@ -1,0 +1,28 @@
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"att":"2024-06-21T20:27:31.559Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"att":"2024-06-21T20:27:31.562Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js"}
+{"att":"2024-06-21T20:29:08.952Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"att":"2024-06-21T20:29:08.951Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:30:12.174Z"}
+{"att":"2024-06-21T20:30:12.180Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:30:12.180Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:30:12.178Z"}
+{"att":"2024-06-21T20:30:12.185Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:30:12.185Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:31:03.176Z"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:03.181Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:31:03.178Z"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:03.184Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:31:20.532Z"}
+{"att":"2024-06-21T20:31:20.536Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:20.536Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-21T20:31:20.545Z"}
+{"att":"2024-06-21T20:31:20.551Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:20.551Z"}
+{"level":"info","message":"hola mundo","service":"app.js","timestamp":"2024-06-27T15:25:40.172Z"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-27T15:25:40.177Z"}
