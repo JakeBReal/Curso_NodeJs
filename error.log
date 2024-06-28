@@ -11,3 +11,4 @@
 {"att":"2024-06-21T20:31:20.536Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:20.536Z"}
 {"att":"2024-06-21T20:31:20.551Z","level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-21T20:31:20.551Z"}
 {"level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-27T15:25:40.177Z"}
+{"level":"error","message":"ESTO ES UN ERROR","service":"app.js","timestamp":"2024-06-27T16:08:45.491Z"}
